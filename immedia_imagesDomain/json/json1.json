@@ -1,0 +1,79 @@
+﻿{
+  "meta": {
+    "code": 200,
+    "requestId": "59142fefdd57976693f81564"
+  },
+  "notifications": [
+    {
+      "type": "notificationTray",
+      "item": { "unreadCount": 0 }
+    }
+  ],
+  "response": {
+    "photos": {
+      "count": 2,
+      "items": [
+        {
+          "id": "4f7d4739e4b0308060342a18",
+          "createdAt": 1333610297,
+          "source": {
+            "name": "Instagram",
+            "url": "http://instagram.com"
+          },
+          "prefix": "https://igx.4sqi.net/img/general/",
+          "suffix": "/MDGxGOOfjQik0l_F1fwNKYEVMFknGVf2jlB895r7IJY.jpg",
+          "width": 612,
+          "height": 612,
+          "user": {
+            "id": "23193104",
+            "firstName": "Ahmed",
+            "lastName": "Gangat",
+            "gender": "male",
+            "photo": {
+              "prefix": "https://igx.4sqi.net/img/user/",
+              "suffix": "/blank_boy.png",
+              "default": true
+            }
+          },
+          "checkin": {
+            "id": "4f7d33b1e4b02c41438a4c3c",
+            "createdAt": 1333605297,
+            "type": "checkin",
+            "timeZoneOffset": 120
+          },
+          "visibility": "public"
+        },
+        {
+          "id": "502b3672e4b082dc2cb75510",
+          "createdAt": 1345009266,
+          "source": {
+            "name": "Foursquare for BlackBerry",
+            "url": "https:\/\/foursquare.com\/download\/#\/blackberry"
+          },
+          "prefix": "https:\/\/igx.4sqi.net\/img\/general\/",
+          "suffix": "\/ikFT2u8BtvnUZujUO6D2dpPF6c-3jlwXM6cHZTPJn4Q.jpg",
+          "width": 460,
+          "height": 345,
+          "user": {
+            "id": "31114397",
+            "firstName": "Caelisha",
+            "lastName": "Harris",
+            "gender": "female",
+            "photo": {
+              "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
+              "suffix": "\/31114397-MYV0XRWFQ3HSU0JC.jpg"
+            }
+          },
+          "checkin": {
+            "id": "502b3661e4b0a1ba981fea66",
+            "createdAt": 1345009249,
+            "type": "checkin",
+            "timeZoneOffset": 120
+          },
+          "visibility": "public"
+        }
+      ],
+      "dupesRemoved": 0
+    }
+  }
+}

@@ -1,0 +1,1623 @@
+﻿{
+  "meta": {
+    "code": 200,
+    "requestId": "59147bb26a60716412b4d7c8"
+  },
+  "notifications": [
+    {
+      "type": "notificationTray",
+      "item": { "unreadCount": 0 }
+    }
+  ],
+  "response": {
+    "venues": [
+      {
+        "id": "4cdcd6365aeda1cd4f3fc511",
+        "name": "Durban Harbour",
+        "contact": {},
+        "location": {
+          "address": "Victoria enbankment",
+          "lat": -29.871908268231252,
+          "lng": 31.02487564086914,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.871908268231252,
+              "lng": 31.02487564086914
+            }
+          ],
+          "distance": 2738,
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "Victoria enbankment", "ITheku" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0941735",
+            "name": "Harbor / Marina",
+            "pluralName": "Harbors / Marinas",
+            "shortName": "Harbor / Marina",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 582,
+          "usersCount": 327,
+          "tipCount": 2
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d1c3e0a8860a0932bccb934",
+        "name": "Port of Durban",
+        "contact": {},
+        "location": {
+          "address": "Quayside Rd.",
+          "lat": -29.866698220252605,
+          "lng": 31.033737659454346,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.866698220252605,
+              "lng": 31.033737659454346
+            }
+          ],
+          "distance": 2427,
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "Quayside Rd.", "ITheku" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f6931735",
+            "name": "General Travel",
+            "pluralName": "General Travel",
+            "shortName": "Travel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 356,
+          "usersCount": 193,
+          "tipCount": 1
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4c18a765fe5a76b0d84c0215",
+        "name": "Durban",
+        "contact": {},
+        "location": {
+          "lat": -29.857040304660625,
+          "lng": 31.027514934539795,
+          "distance": 3643,
+          "postalCode": "4001",
+          "cc": "ZA",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "4001" ]
+        },
+        "categories": [
+          {
+            "id": "50aa9e094b90af0d42d5de0d",
+            "name": "City",
+            "pluralName": "Cities",
+            "shortName": "City",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 6069,
+          "usersCount": 1701,
+          "tipCount": 7
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4ef5af1d61af4546fcd8ad74",
+        "name": "The Beach",
+        "contact": {},
+        "location": {
+          "address": "Marine Drive",
+          "lat": -29.884275616489415,
+          "lng": 31.05439070955532,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.884275616489415,
+              "lng": 31.05439070955532
+            }
+          ],
+          "distance": 436,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "Marine Drive" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e3941735",
+            "name": "Surf Spot",
+            "pluralName": "Surf Spots",
+            "shortName": "Surf Spot",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/surfspot_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 44,
+          "usersCount": 12,
+          "tipCount": 0
+        },
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "582609b34c6d67719ef8180c",
+        "name": "Robsons On Point",
+        "contact": {},
+        "location": {
+          "address": "72 Mahatma Gandhi Road",
+          "lat": -29.872095,
+          "lng": 31.047253,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.872095,
+              "lng": 31.047253
+            }
+          ],
+          "distance": 1278,
+          "postalCode": "4001",
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "72 Mahatma Gandhi Road", "ITheku", "4001" ]
+        },
+        "categories": [
+          {
+            "id": "50327c8591d4c4b30a586d5d",
+            "name": "Brewery",
+            "pluralName": "Breweries",
+            "shortName": "Brewery",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 32,
+          "usersCount": 15,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5314fa14e4b0e72a36e3822d",
+        "name": "Point",
+        "contact": {},
+        "location": {
+          "lat": -29.865742009419282,
+          "lng": 31.04392703308429,
+          "distance": 2044,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4f2a25ac4b909258e854f55f",
+            "name": "Neighborhood",
+            "pluralName": "Neighborhoods",
+            "shortName": "Neighborhood",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 236,
+          "usersCount": 68,
+          "tipCount": 0
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e5a614fd164da2b276ef103",
+        "name": "Bluff Military Base",
+        "contact": {},
+        "location": {
+          "lat": -29.88432507134486,
+          "lng": 31.0536853217475,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.88432507134486,
+              "lng": 31.0536853217475
+            }
+          ],
+          "distance": 372,
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "ITheku" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d15d941735",
+            "name": "Lighthouse",
+            "pluralName": "Lighthouses",
+            "shortName": "Lighthouse",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lighthouse_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 53,
+          "usersCount": 21,
+          "tipCount": 0
+        },
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d9d874383f36ea8d86db994",
+        "name": "Vetchie's Beach",
+        "contact": {},
+        "location": {
+          "lat": -29.86846605973743,
+          "lng": 31.049520090433564,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.86846605973743,
+              "lng": 31.049520090433564
+            }
+          ],
+          "distance": 1655,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "52e81612bcbc57f1066b7a12",
+            "name": "Dive Spot",
+            "pluralName": "Dive Spots",
+            "shortName": "Dive Spot",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/divespot_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 152,
+          "usersCount": 53,
+          "tipCount": 1
+        },
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "50d96256e4b079544ab55abb",
+        "name": "Point Bay",
+        "contact": {},
+        "location": {
+          "lat": -29.871807708324184,
+          "lng": 31.05156353509216,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.871807708324184,
+              "lng": 31.05156353509216
+            }
+          ],
+          "distance": 1291,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d164941735",
+            "name": "Plaza",
+            "pluralName": "Plazas",
+            "shortName": "Plaza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 51,
+          "usersCount": 24,
+          "tipCount": 0
+        },
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d43b3e6befe236a3433ede2",
+        "name": "Ciao Bella Café",
+        "contact": {
+          "phone": "0313325917",
+          "formattedPhone": "031 332 5917"
+        },
+        "location": {
+          "address": "162 Mahatma Ghandi Avenue",
+          "lat": -29.87075061875517,
+          "lng": 31.043764668181804,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87075061875517,
+              "lng": 31.043764668181804
+            }
+          ],
+          "distance": 1524,
+          "cc": "ZA",
+          "city": "Point Waterfront",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "162 Mahatma Ghandi Avenue", "Point Waterfront" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 129,
+          "usersCount": 70,
+          "tipCount": 2
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "54e2e6d9498e9832a2a4b77b",
+        "name": "The Waterfront Hotel & Spa",
+        "contact": {},
+        "location": {
+          "lat": -29.872217285815935,
+          "lng": 31.0477117529528,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.872217285815935,
+              "lng": 31.0477117529528
+            }
+          ],
+          "distance": 1256,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 52,
+          "usersCount": 35,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d427c5a714a224b0112e4e8",
+        "name": "MSC Sinfonia",
+        "contact": {},
+        "location": {
+          "lat": -29.87067037672309,
+          "lng": 31.033479245703937,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87067037672309,
+              "lng": 31.033479245703937
+            }
+          ],
+          "distance": 2128,
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "ITheku" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d12d951735",
+            "name": "Boat or Ferry",
+            "pluralName": "Boats or Ferries",
+            "shortName": "Boat / Ferry",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/boat_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 216,
+          "usersCount": 130,
+          "tipCount": 2
+        },
+        "venueRatingBlacklisted": true,
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5154c616e4b0f9428ce20d57",
+        "name": "Cape To Cairo",
+        "contact": {},
+        "location": {
+          "lat": -29.87188683609075,
+          "lng": 31.046060151655883,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87188683609075,
+              "lng": 31.046060151655883
+            }
+          ],
+          "distance": 1329,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11f941735",
+            "name": "Nightclub",
+            "pluralName": "Nightclubs",
+            "shortName": "Nightclub",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 24,
+          "usersCount": 15,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5905233c8c812a4130eeb954",
+        "name": "Level 1 Night Club",
+        "contact": {},
+        "location": {
+          "lat": -29.871773,
+          "lng": 31.046366,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.871773,
+              "lng": 31.046366
+            }
+          ],
+          "distance": 1333,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11f941735",
+            "name": "Nightclub",
+            "pluralName": "Nightclubs",
+            "shortName": "Nightclub",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4efca2bd6da1f9b9d8a621a0",
+        "name": "The Quays",
+        "contact": {},
+        "location": {
+          "lat": -29.869963362870767,
+          "lng": 31.04951449190742,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.869963362870767,
+              "lng": 31.04951449190742
+            }
+          ],
+          "distance": 1489,
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "ITheku" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 44,
+          "usersCount": 13,
+          "tipCount": 2
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4cc30b8fdba3ef3b4a9f0605",
+        "name": "Durban Ski Boat Club",
+        "contact": {},
+        "location": {
+          "address": "Browns Road",
+          "lat": -29.86961889473839,
+          "lng": 31.05010793423085,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.86961889473839,
+              "lng": 31.05010793423085
+            }
+          ],
+          "distance": 1526,
+          "postalCode": "4001",
+          "cc": "ZA",
+          "city": "Durban",
+          "state": "KZN",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "Browns Road", "Durban", "4001" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d162941735",
+            "name": "Other Great Outdoors",
+            "pluralName": "Other Great Outdoors",
+            "shortName": "Other Outdoors",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 153,
+          "usersCount": 72,
+          "tipCount": 3
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4cc1df8eb2beb1f7743e0c4c",
+        "name": "Wodka",
+        "contact": {},
+        "location": {
+          "lat": -29.87239,
+          "lng": 31.04774,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87239,
+              "lng": 31.04774
+            }
+          ],
+          "distance": 1237,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 82,
+          "usersCount": 50,
+          "tipCount": 3
+        },
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "58ce2f079836313dc5616cd7",
+        "name": "la Josay Cafe",
+        "contact": {},
+        "location": {
+          "lat": -29.870993,
+          "lng": 31.048128,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.870993,
+              "lng": 31.048128
+            }
+          ],
+          "distance": 1385,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4f46844be4b05a78b04de5b3",
+        "name": "Sweets from Heaven - Ushaka",
+        "contact": {
+          "phone": "0313377669",
+          "formattedPhone": "031 337 7669"
+        },
+        "location": {
+          "lat": -29.868099073160913,
+          "lng": 31.046770678894973,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.868099073160913,
+              "lng": 31.046770678894973
+            }
+          ],
+          "distance": 1724,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d117951735",
+            "name": "Candy Store",
+            "pluralName": "Candy Stores",
+            "shortName": "Candy Store",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 9,
+          "usersCount": 6,
+          "tipCount": 0
+        },
+        "url": "http://www.theheavengroup.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e621d76483bd9a9742b132e",
+        "name": "Point Yacht Club - The Beach Site",
+        "contact": {
+          "phone": "0313014787",
+          "formattedPhone": "031 301 4787"
+        },
+        "location": {
+          "lat": -29.86886172723423,
+          "lng": 31.04964885646318,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.86886172723423,
+              "lng": 31.04964885646318
+            }
+          ],
+          "distance": 1611,
+          "postalCode": "4001",
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "ITheku", "4001" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0941735",
+            "name": "Harbor / Marina",
+            "pluralName": "Harbors / Marinas",
+            "shortName": "Harbor / Marina",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 129,
+          "usersCount": 33,
+          "tipCount": 1
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "51c2204f498e79ef5349b9fb",
+        "name": "The Chairman",
+        "contact": {},
+        "location": {
+          "lat": -29.87114899542789,
+          "lng": 31.044565292994307,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87114899542789,
+              "lng": 31.044565292994307
+            }
+          ],
+          "distance": 1454,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d121941735",
+            "name": "Lounge",
+            "pluralName": "Lounges",
+            "shortName": "Lounge",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 107,
+          "usersCount": 53,
+          "tipCount": 4
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "50680845e4b0759e8b256480",
+        "name": "19 Field Regimental HQ",
+        "contact": {},
+        "location": {
+          "lat": -29.88080596923828,
+          "lng": 31.053800582885742,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.88080596923828,
+              "lng": 31.053800582885742
+            }
+          ],
+          "distance": 462,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4e52adeebd41615f56317744",
+            "name": "Military Base",
+            "pluralName": "Military Bases",
+            "shortName": "Military Base",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/militarybase_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 2,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4c95da9503413704bf8c7fef",
+        "name": "DUC (Durban Undersea Club)",
+        "contact": {
+          "phone": "0313681199",
+          "formattedPhone": "031 368 1199",
+          "twitter": "ducscuba"
+        },
+        "location": {
+          "address": "Point Pl.",
+          "lat": -29.868631792869255,
+          "lng": 31.04962646238096,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.868631792869255,
+              "lng": 31.04962646238096
+            }
+          ],
+          "distance": 1636,
+          "postalCode": "4126",
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "Point Pl.", "ITheku", "4126" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d162941735",
+            "name": "Other Great Outdoors",
+            "pluralName": "Other Great Outdoors",
+            "shortName": "Other Outdoors",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 702,
+          "usersCount": 182,
+          "tipCount": 11
+        },
+        "url": "http://www.duc.co.za",
+        "venueRatingBlacklisted": true,
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "58f8f9a4610f042ee2b8fb57",
+        "name": "Dollywood",
+        "contact": {},
+        "location": {
+          "address": "11 Browns Road",
+          "lat": -29.871255,
+          "lng": 31.046743,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.871255,
+              "lng": 31.046743
+            }
+          ],
+          "distance": 1380,
+          "postalCode": "4001",
+          "cc": "ZA",
+          "state": "KZN",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "11 Browns Road", "4001" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f941735",
+            "name": "Indian Restaurant",
+            "pluralName": "Indian Restaurants",
+            "shortName": "Indian",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4db3e74f0cb6729b6a89a342",
+        "name": "Xpression on the Beach",
+        "contact": {},
+        "location": {
+          "address": "Erskine Ter",
+          "lat": -29.87098245923395,
+          "lng": 31.0481764366932,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87098245923395,
+              "lng": 31.0481764366932
+            }
+          ],
+          "distance": 1386,
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "Erskine Ter", "ITheku" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f1941735",
+            "name": "Board Shop",
+            "pluralName": "Board Shops",
+            "shortName": "Board Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/surfspot_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 28,
+          "usersCount": 17,
+          "tipCount": 3
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "51fe34cb498e1c109a993e2a",
+        "name": "Ushaka Bar",
+        "contact": {},
+        "location": {
+          "address": "144 Mahatma Ghandi Rd",
+          "lat": -29.8714,
+          "lng": 31.0443,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.8714,
+              "lng": 31.0443
+            }
+          ],
+          "distance": 1437,
+          "postalCode": "4001",
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "144 Mahatma Ghandi Rd", "ITheku", "4001" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 8,
+          "usersCount": 6,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4fffb82080550671e11c60e2",
+        "name": "Eatwise Express",
+        "contact": {
+          "phone": "0318264951",
+          "formattedPhone": "031 826 4951"
+        },
+        "location": {
+          "address": "76 Mahatma Gandhi Road",
+          "lat": -29.87203851594452,
+          "lng": 31.04586124420166,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87203851594452,
+              "lng": 31.04586124420166
+            }
+          ],
+          "distance": 1319,
+          "postalCode": "4001",
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "76 Mahatma Gandhi Road", "ITheku", "4001" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e15bdcc152070f40065b4fa",
+        "name": "Ogilvy - Durban",
+        "contact": {
+          "phone": "0313345600",
+          "formattedPhone": "031 334 5600"
+        },
+        "location": {
+          "address": "76 Mahatma Gandhi Road",
+          "lat": -29.871861751149567,
+          "lng": 31.04740083217621,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.871861751149567,
+              "lng": 31.04740083217621
+            }
+          ],
+          "distance": 1301,
+          "cc": "ZA",
+          "city": "ITheku",
+          "state": "KwaZulu-Natal",
+          "country": "iNingizimu Afrika",
+          "formattedAddress": [ "76 Mahatma Gandhi Road", "ITheku" ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d130941735",
+            "name": "Building",
+            "pluralName": "Buildings",
+            "shortName": "Building",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 44,
+          "usersCount": 12,
+          "tipCount": 1
+        },
+        "venueRatingBlacklisted": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d83b3c999b78cfa12f3a61f",
+        "name": "Sails",
+        "contact": {},
+        "location": {
+          "lat": -29.87161264680115,
+          "lng": 31.048534745823066,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.87161264680115,
+              "lng": 31.048534745823066
+            }
+          ],
+          "distance": 1312,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 45,
+          "usersCount": 18,
+          "tipCount": 3
+        },
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "56554bae498e86981603ab09",
+        "name": "Studio XTN",
+        "contact": {},
+        "location": {
+          "lat": -29.871573631241365,
+          "lng": 31.051289211660123,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -29.871573631241365,
+              "lng": 31.051289211660123
+            }
+          ],
+          "distance": 1314,
+          "cc": "ZA",
+          "country": "iNingizimu Afrika"
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e2931735",
+            "name": "Art Gallery",
+            "pluralName": "Art Galleries",
+            "shortName": "Art Gallery",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 4,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": { "lastCheckinExpiredAt": 0 },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1494514611",
+        "venueChains": [],
+        "hasPerk": false
+      }
+    ],
+    "confident": false
+  }
+}

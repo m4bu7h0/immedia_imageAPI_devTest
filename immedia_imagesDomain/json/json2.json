@@ -1,0 +1,61 @@
+﻿{
+  {
+    "id": "5054eb43e4b04ed4f0dd1b30",
+    "name": "La cabana",
+    "contact": {},
+    "location": {
+      "lat": 40.69875,
+      "lng": -73.99953,
+      "labeledLatLngs": [
+        {
+          "label": "display",
+          "lat": 40.69875,
+          "lng": -73.99953
+        }
+      ],
+      "distance": 144,
+      "cc": "US",
+      "state": "New York",
+      "country": "United States",
+      "formattedAddress": [
+        "New York",
+        "United States"
+      ]
+    },
+    "categories": [
+      {
+        "id": "4bf58dd8d48988d154941735",
+        "name": "Cuban Restaurant",
+        "pluralName": "Cuban Restaurants",
+        "shortName": "Cuban",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cuban_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }
+    ],
+    "verified": false,
+    "stats": {
+      "checkinsCount": 6,
+      "usersCount": 6,
+      "tipCount": 1
+    },
+    "allowMenuUrlEdit": true,
+    "beenHere": {
+      "lastCheckinExpiredAt": 0
+    },
+    "specials": {
+      "count": 0,
+      "items": []
+    },
+    "hereNow": {
+      "count": 0,
+      "summary": "Nobody here",
+      "groups": []
+    },
+    "referralId": "v-1494597243",
+    "venueChains": [],
+    "hasPerk": false
+  }
+}
