@@ -86,9 +86,7 @@
                         //Create RadListBoxItem and add it to the RadListBox control
                         var item =
                             new Telerik.Web.UI.RadListBoxItem;
-
-
-
+                        
                         item.set_text(resources[i].name);
                         item.set_value(resources[i].point.coordinates);
                         listBox.get_items().add(item);
@@ -252,6 +250,16 @@
             </tr>
         </table>
         <script type="text/javascript">
+
+                function requestAutocomplete(sender, eventArgs) {
+
+                    var context = eventArgs.get_context();
+                    context["input"] = sender.get_value;
+                }
+
+                function setRTBValues(latitude, longitude) {
+
+                }
 
                 // South African map for coordinates
                 $("#showMap").dialog({
