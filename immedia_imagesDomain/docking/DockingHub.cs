@@ -17,6 +17,7 @@ namespace immedia_imagesDomain.docking
         // Change this to your deployment server, I used localhost
         private static readonly string url =
             "http://localhost/immedia_imagesWebAPI/";
+
         public static JArray GetAutocomplete(
             string searchText)
         {

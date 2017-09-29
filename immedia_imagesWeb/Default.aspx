@@ -253,16 +253,6 @@
         </table>
         <script type="text/javascript">
 
-                function requestAutocomplete(sender, eventArgs) {
-
-                    var context = eventArgs.get_context();
-                    context["input"] = sender.get_value;
-                }
-
-                function setRTBValues(latitude, longitude) {
-
-                }
-
                 // South African map for coordinates
                 $("#showMap").dialog({
                     autoOpen: false,
