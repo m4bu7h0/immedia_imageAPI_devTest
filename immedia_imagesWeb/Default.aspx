@@ -46,8 +46,11 @@
                 function OnClientClicked() {
                     var $ = $telerik.$;
 
+                    alert("... before!");
                     var searchValue =
-                        $find("racLocation").get_value();
+                        $find("<%= racLocation.ClientID %>").get_entries().getEntry(0).get_text();
+
+                    alert(searchValue);
 
                     //Retrieve the list of locations from Bing Locations Service
                     $.ajax({
@@ -55,7 +58,7 @@
                         dataType: "jsonp",
                         data: {
                             q: searchValue,
-                            key: "AiLNEZr7ey20WpnV8YAj2iVRXOwuF9uij5Jz61nTaAWk1OoPOYL7CidkNK3adN3f"
+                            key: "Alo-pb5cZ9eeMuhwBpnSZLQsbT2q6wHwiGO4Wd0W1m6sBEiyAsBGHI1qkk5FPWzm"
                         },
                         jsonp: "jsonp",
                         success: loadResults
@@ -159,7 +162,7 @@
                                                         <LayersCollection>
                                                             <telerik:MapLayer
                                                                 Type="Bing"
-                                                                Key="AiLNEZr7ey20WpnV8YAj2iVRXOwuF9uij5Jz61nTaAWk1OoPOYL7CidkNK3adN3f">
+                                                                Key="Alo-pb5cZ9eeMuhwBpnSZLQsbT2q6wHwiGO4Wd0W1m6sBEiyAsBGHI1qkk5FPWzm">
                                                             </telerik:MapLayer>
                                                             <%--<telerik:MapLayer Type="Tile"
                                                                 Subdomains="a,b,c"
