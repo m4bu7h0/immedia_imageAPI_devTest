@@ -46,11 +46,9 @@
                 function OnClientClicked() {
                     var $ = $telerik.$;
 
-                    alert("... before!");
                     var searchValue =
                         $find("<%= racLocation.ClientID %>").get_entries().getEntry(0).get_text();
 
-                    alert(searchValue);
 
                     //Retrieve the list of locations from Bing Locations Service
                     $.ajax({
@@ -89,7 +87,7 @@
                         //Create RadListBoxItem and add it to the RadListBox control
                         var item =
                             new Telerik.Web.UI.RadListBoxItem;
-                        
+
                         item.set_text(resources[i].name);
                         item.set_value(resources[i].point.coordinates);
                         listBox.get_items().add(item);
@@ -169,7 +167,7 @@
                                                                 UrlTemplate="http://#= subdomain #.tile.openstreetmap.org/#= zoom #/#= x #/#= y #.png">
                                                             </telerik:MapLayer>--%>
                                                         </LayersCollection>
-                                                        <%--<ClientEvents OnClick="logClick" />--%>
+                                                        <ClientEvents OnClick="logClick" />
                                                     </telerik:RadMap>
                                                 </td>
                                                 <td>
@@ -262,6 +260,12 @@
 
                 function setRTBValues(latitude, longitude) {
 
+                }
+
+                function logClick(eventArgs) {
+                    var clickedLocation = eventArgs.location;
+                    alert(String.format("Click: on latitude {0} and longitude {1}.",
+                        clickedLocation.lat, clickedLocation.lng));
                 }
 
                 // South African map for coordinates
