@@ -34,7 +34,7 @@ namespace immedia_imagesWeb
                     Value = obj.ToString()
                 };
 
-                obj.ToString();
+                result.Add(nodes);
             }
 
             var res = new AutoCompleteBoxData {
