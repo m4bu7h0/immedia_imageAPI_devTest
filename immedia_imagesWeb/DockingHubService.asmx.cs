@@ -43,5 +43,12 @@ namespace immedia_imagesWeb
 
             return res;
         }
+
+        [WebMethod]
+        public JArray GetVenues(string coordinates)
+        {
+
+            return DockingHub.GetVenues(coordinates);
+        }
     }
 }
