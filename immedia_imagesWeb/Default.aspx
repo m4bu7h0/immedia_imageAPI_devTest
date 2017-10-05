@@ -169,6 +169,13 @@
                                                         </LayersCollection>
                                                         <ClientEvents OnClick="logClick" />
                                                     </telerik:RadMap>
+                                                    <asp:GridView>
+                                                        <Columns>
+                                                            <asp:TemplateField>
+                                                                <
+                                                            </asp:TemplateField>
+                                                        </Columns>
+                                                    </asp:GridView>
                                                 </td>
                                                 <td>
                                                     <table>
@@ -210,7 +217,7 @@
                                                                 <telerik:RadListBox runat="server"
                                                                     ID="rlbLocations"
                                                                     EmptyMessage="No locations found"
-                                                                    Width="190px" Height="205px"
+                                                                    Width="190px" Height="195px"
                                                                     OnClientSelectedIndexChanged="centerItem"
                                                                     OnClientItemDoubleClicked="centerItem">
                                                                 </telerik:RadListBox>
